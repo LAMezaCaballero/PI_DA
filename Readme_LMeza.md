@@ -10,3 +10,4 @@ Para el Dashboard la carpeta de DASHBOARD:
     2. readme_dashboard.md que contiene todos los pasos al crear el power bi.
 
 
+https://github.com/LAMezaCaballero/PI_DA/blob/main/README_Henry.md
